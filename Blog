@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kameleon.Co</title>
+	<meta name="description" content="blog by kameleon">
+	<meta name="keywords" content="web design blog,web dev blog, kameleon.co">
+		<style type="text/css">
+			#main-header{
+				text-align: center;
+				color:white;
+				background-color:pink;
+				padding:10px;
+			}
+
+			#main-footer{
+				text-align:center;
+				font-size: 18px;
+			}
+		</style>
+</head>
+<body>
+	<header id="main-header">
+		<h1>Kameleon.Co</h1>
+	</header>
+
+	<a href="index 2 learning based on youtube html crash course.html">Go to Index 2</a>
+
+	<section>
+		<article class="post">
+			<h3>How we started</h3>
+				<small>Posted by Mikhaila on January 29</small>
+					<p>How we started...Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<a href="post.html">Avail our products here</a>
+		</article>
+
+		<article class="post">
+			<h3>How we started 2</h3>
+				<small>Posted by Mikhaila on January 29</small>
+				<p>Info about us.. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				<a href="post.html">Avail our products here</a>
+		</article>
+
+		<article class="post">
+			<h3>How we started 3</h3>
+				<small>Posted by Mikhaila on January 29</small>
+					<p>Care tips..Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+					tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+					quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+					consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+					cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+					proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+					<a href="post.html">Avail our products here</a>
+		</article>
+	</section>
+
+	<aside>
+		<h3>Categories</h3>
+			<nav>
+				<ul>
+					<li><a href="#">Stickers</a></li>
+					<li><a href="#">Pastries</a></li>
+					<li><a href="#">Design Comission</a></li>
+				</ul>
+			</nav>
+	</aside>
+
+	<footer id="main-footer">
+		<p>Copyright &copy; 2017, My Website</p>
+	</footer>
+</body>
+</html>
